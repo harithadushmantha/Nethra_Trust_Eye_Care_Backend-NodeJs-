@@ -1,0 +1,4 @@
+{
+  "jwtPrivateKey": "gw_jwtPrivateKey",
+  "db": "mongodb+srv://dbUser:senadeera@1022@cluster0.csnwg.mongodb.net/gamini_waleboda_app?retryWrites=true&w=majority"
+}
